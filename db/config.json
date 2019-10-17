@@ -1,0 +1,31 @@
+{
+  "development1": {
+    "username": "zkhlbumxguqarf",
+    "password": "d13c60e957966a96de0a011d1122e4d5642c484699ad572a179e731f8ae801cc",
+    "database": "df1k31nveubtst",
+    "host": "ec2-174-129-238-192.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  },
+  "development": {
+    "username": "be001",
+    "password": "be001password",
+    "database": "be001dev",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "be001",
+    "password": "be001password",
+    "database": "be001test",
+    "host": "localhost",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "zkhlbumxguqarf",
+    "password": "d13c60e957966a96de0a011d1122e4d5642c484699ad572a179e731f8ae801cc",
+    "database": "df1k31nveubtst",
+    "host": "ec2-174-129-238-192.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
